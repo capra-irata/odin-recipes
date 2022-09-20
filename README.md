@@ -1,4 +1,4 @@
-# odin_recipes
+# odin-recipes
 
 Goal: Create a simple recipe website.
 
