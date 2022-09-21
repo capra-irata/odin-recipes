@@ -1,26 +1,48 @@
 body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: navajowhite;
+  font-family: Dyuthi;
 }
 
-#logo {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  background-color: navajowhite;
-  color: seagreen;
-  font-size: 48px;
-  font-weight: bold;
+#banner {
   text-align: center;
 }
 
-#recipes {
-  font-size: 20px;
+#logo {
+  font-family: "Ink Free", "Brush Script MT", Tahoma, sans-serif;
+  background-color: coral;
+  color: seagreen;
+  text-decoration: none;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.centered-images {
+  text-align: center;
+}
+
+.centered-images img {
+  height: 300px;
+  width: auto;
+}
+
+#recipe-list {
+  list-style-type: none;
+  text-align: center;
+}
+
+.recipe a {
+  text-decoration: none;
+  font-size: 32px;
 }
 
 .odd {
-  background-color: black;
-  color: white;
+  background-color: coral;
 }
 
-.even {
-  background-color: white;
-  color: black;
+.odd a {
+  color: rgb(63, 104, 81);
+}
+
+.even a {
+  color: rgb(128, 115, 243);
 }
