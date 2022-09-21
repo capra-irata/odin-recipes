@@ -1,0 +1,26 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#logo {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: navajowhite;
+  color: seagreen;
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#recipes {
+  font-size: 20px;
+}
+
+.odd {
+  background-color: black;
+  color: white;
+}
+
+.even {
+  background-color: white;
+  color: black;
+}
